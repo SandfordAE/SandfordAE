@@ -1,4 +1,4 @@
-Check out my [Digital Résumé/Portfolio] website (https://sandfordae.github.io/).
+Check out my [Digital Résumé/Portfolio](https://sandfordae.github.io/) website.
 
 
 ### Hi there 👋
