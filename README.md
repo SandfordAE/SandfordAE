@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi there ....
 
 Check out my [Digital Résumé/Portfolio](https://sandfordae.github.io/).
 
