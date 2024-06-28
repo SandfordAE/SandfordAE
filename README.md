@@ -3,7 +3,7 @@
 
 Check out my [Digital Résumé/Portfolio](https://sandfordae.github.io/).
 
-# List of development Projects
+# List of Projects within the Repos
 
 ***
 
