@@ -1,11 +1,7 @@
 
 ### Hi there 👋
 
-
 Check out my [Digital Résumé/Portfolio](https://sandfordae.github.io/).
-
-
-### [Index Page (/)](./)
 
 # List of development Projects
 
@@ -13,13 +9,13 @@ Check out my [Digital Résumé/Portfolio](https://sandfordae.github.io/).
 
 ## Python Projects
 
-| No. | U |   L  |   Git Project Name  | Port | Project ReadMe\.md |
-|:---:|:-:|:----:|:--------------------|:----:|:-------------------|
-|     |   |      |                     |      |                    |
-|  1  | A |   α  | [alpha](https://github.com/SandfordAE/alpha)            | 7999 | [Blog Site](../Websites/alpha/README.md) |
-|  2  | Β |   β  | [beta](https://github.com/SandfordAE/beta)              | 7998 | [Users Site](../Websites/beta/README.md) |
-|  3  | Γ |   γ  | [gamma](https://github.com/SandfordAE/gamma)       | 7887 | [Recipes Site](../Websites/gamma/README.md) |  
-|  4  | Δ |   δ  | [delta](https://github.com/SandfordAE/delta)            | 7996 | [Linode site](../Websites/delta/ReadMe.md) |
+| No. | U |   L  |                  Git Project Name                          | Port | Project ReadMe\.md |
+|:---:|:-:|:----:|:-----------------------------------------------------------|:----:|:-------------------|
+|     |   |      |                                                            |      |                    |
+|  1  | A |   α  | [alpha](https://github.com/SandfordAE/alpha)               | 7999 | [Blog Site](../Websites/alpha/README.md) |
+|  2  | Β |   β  | [beta](https://github.com/SandfordAE/beta)                 | 7998 | [Users Site](../Websites/beta/README.md) |
+|  3  | Γ |   γ  | [gamma](https://github.com/SandfordAE/gamma)               | 7887 | [Recipes Site](../Websites/gamma/README.md) |  
+|  4  | Δ |   δ  | [delta](https://github.com/SandfordAE/delta)               | 7996 | [Linode site](../Websites/delta/ReadMe.md) |
 |  5  | Ε |   ε  | [epsilon](https://github.com/SandfordAE/ms-ocr)            | 7995 | [MS-OCR for recipes](../Websites/epsilon/README.md) |
 |  7  | Ζ |   ζ  | [zêta](https://github.com/SandfordAE/SandfordAE.github.io) | 7994 | [HTML/Css - Digital Résumé/Portfolio/Site/Github.io](../Websites/zeta/README.md) |
 |  8  | Η |   η  | [êta](https://github.com/SandfordAE/êta)                   | 7993 | [YouTube Proxy site + Algolia Search engine](../Websites/eta/README.md) |
