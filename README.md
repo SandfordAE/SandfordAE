@@ -12,7 +12,7 @@ Check out my [Digital Résumé/Portfolio](https://sandfordae.github.io/).
 | No. | U |   L  |                  Git Project Name                          | Port | Project ReadMe\.md |
 |:---:|:-:|:----:|:-----------------------------------------------------------|:----:|:-------------------|
 |     |   |      |                                                            |      |                    |
-|  1  | A |   α  | [alpha](https://github.com/SandfordAE/alpha)               | 7999 | [Blog Site](../Websites/alpha/README.md) |
+|  1  | A |   α  | [alpha](https://github.com/SandfordAE/alpha)               | 7999 | Basic Django/BootStrap [Blog Site](../Websites/alpha/README.md) |
 |  2  | Β |   β  | [beta](https://github.com/SandfordAE/beta)                 | 7998 | [Users Site](../Websites/beta/README.md) |
 |  3  | Γ |   γ  | [gamma](https://github.com/SandfordAE/gamma)               | 7887 | [Recipes Site](../Websites/gamma/README.md) |  
 |  4  | Δ |   δ  | [delta](https://github.com/SandfordAE/delta)               | 7996 | [Linode site](../Websites/delta/ReadMe.md) |
