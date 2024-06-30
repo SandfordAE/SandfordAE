@@ -3,8 +3,6 @@
 
 Check out my [Digital Résumé/Portfolio](https://sandfordae.github.io/).
 
-# List of Projects within the Repos
-
 ***
 
 ## Python Projects
@@ -40,7 +38,7 @@ Check out my [Digital Résumé/Portfolio](https://sandfordae.github.io/).
 
 ## JavaScrpt Projects
 
-|No. | Planet | Satellite | Port | Project |
+|No. |        |   Name    | Port | Project |
 |:--:|:------:|:---------:|:----:|:--------|
 |    |        |           |      |         |
 | 26 | Earth  | Luna      | 3001 | React/Tailwind - New N145 HomePage |
@@ -48,48 +46,38 @@ Check out my [Digital Résumé/Portfolio](https://sandfordae.github.io/).
 | 27 | Mars   | Deimos    | 3002 | Word-Association-Game |
 | 28 |        | Phobos    | 3003 | Jeopardy Game |
 |    |        |           |      |         |
-| 29 | Jupiter| Amalthea  | 3004 |  |
 | 30 |        | Callisto  | 3005 | Weather App -- React |
 | 31 |        | Europa    | 3006 | React - OLD Dashboard page/Site |
-| 32 |        | Ganymede  | 3007 |  |
-| 33 |        | Io        | 3008 |  |
-|    |        |           |      |         |
-| 34 | Saturn | Dione     | 3009 |  |
-| 35 |        | Enceladus | 3010 |  |
-| 36 |        | Hyperion  | 3011 |  |
-| 37 |        | Iapetus   | 3012 |  |
-| 38 |        | Mimas     | 3013 |  |
-| 39 |        | Phoebe    | 3014 |  |
-| 40 |        | Rhea      | 3015 |  |
-| 41 |        | Tethys    | 3016 |  |
-| 42 |        | Titan     | 3017 |  |
-|    |        |           |      |         |
-| 43 | Uranus | Ariel     | 3018 |  |
-| 44 |        | Miranda   | 3019 |  |
-| 45 |        | Oberon    | 3020 |  |
-| 46 |        | Titania   | 3021 |  |
-| 47 |        | Umbriel   | 3022 |  |
-|    |        |           |      |         |
-| 49 | Neptune| Tereid    | 3023 |  |
-| 50 |        | Triton    | 3024 |  |
 |    |        |           |      |         |
 | 51 | Pluto  | Charon    | 3025 |NewsApi homepage -- Tailwind|
 |    |        |           |      |         |
 
 ## .Net Projects
 
-|No. | ******  |                 ****                     | Port | Project|
-|:-: |:-------:|:----------------------------------------:|:----:|:-------|
+|No. |   Name  |                 ****                     | Port | Project|
+|:--:|:-------:|:----------------------------------------:|:----:|:-------|
 |    |         |                                          |      |        |
 | 52 | Jupiter | God of the Sky                           | 6001 | DadJokes/CRUDApp - C# ASP.Net 7.0 |
 | 53 | Juno    | Queen of the Gods                        | 6002 | nopCommerce  - C# ASP.Net 7.0 |
-| 54 | Saturn  | God of Time                              | 6003 |  |
-| 55 | Neptune | God of the Seas                          | 6004 |  |
-| 56 | Pluto   | God of the Underworld                    | 6005 |  |
-| 57 | Venus   | God of Love and Beauty                   | 6006 |  |
-| 58 | Minerva | Goddess of Wisdom                        | 6007 |  |
-| 59 | Mars    | God of War                               | 6008 |  |
-| 60 | Mercury | Messenger of the Gods                    | 6009 |  |
-| 61 | Apollo  | God of the Sun                           | 6010 |  |
-| 62 | Diana   | Goddess of the Hunt                      | 6011 |  |
-| 63 | Ceres   | Goddess of Agriculture and Familial Love | 6013 |  |
+|    |         |                                          |      |        |
+
+
+
+## Scripts
+
+| No. | Symbol | Atomic No. |     Element   | Project |
+|:---:|:------:|:----------:|:-------------:|:--------|
+|     |        |            |               |         |
+|  64 |    H   |      1     | Hydrogen      |  |
+|  71 |   He   |      2     | Helium        |  |
+|  72 |   Li   |      3     | Lithium       | Tailwind npm |
+|  73 |   Be   |      4     | Beryllium     |  |
+|  74 |    B   |      5     | Boron         | Ssh Create |
+|  75 |    C   |      6     | Carbon        | DotFiles |
+|  76 |    N   |      7     | Nitrogen      |  |
+|  77 |    O   |      8     | Oxygen        |  |
+|  78 |    F   |      9     | Fluorine      |  |
+|  79 |   Ne   |     10     | Neon          | DB Provision |
+|  80 |   Na   |     11     | Sodium        |  |
+|  81 |   Mg   |     12     | Magnesium     |  |
+|  82 |   Al   |     13     | Aluminium     |  |
