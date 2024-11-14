@@ -3,7 +3,7 @@
 
 There's not a lot here for public access but feel free to
 
-Check out my [Digital Résumé/Portfolio](https://sandfordae.github.io/).
+Check out my [SandfordAE.github.io](https://sandfordae.github.io/) Page.
 
 ***
 
