@@ -1,9 +1,10 @@
 
-### Hi there ....
+### Greetings ....  
+### Welcome to SandfordAE
 
 Unfortunatly a lot of the repos are private as I primarily use Github for testing,
-but some of the more reusable pieces (nothing fancy) I've made public,
-If you would like access to any of the private repos then please feel free to get in touch for an access token,
+but some of the more reusable pieces (nothing fancy) I've made public,  
+If you would like access to any of the private repos then please feel free to get in touch for an access token,  
 
 
 Also, you may wish to
