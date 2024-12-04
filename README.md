@@ -1,9 +1,13 @@
 
 ### Hi there ....
 
-There's not a lot here for public access but feel free to
+Unfortunatly a lot of the repos are private as I primarily use Github for testing,
+but some of the more reusable pieces (nothing fancy) I've made public,
+If you would like access to any of the private repos then please feel free to get in touch for an access token,
 
-Check out my [SandfordAE.github.io](https://sandfordae.github.io/) Page.
+
+Also, you may wish to
+Check out my [SandfordAE.github.io](https://sandfordae.github.io/) Page for more information about the repos and me.
 
 ***
 
