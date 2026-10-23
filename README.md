@@ -63,7 +63,7 @@ Welcome!
 
 | Project | Description | Tech / Topics |
 | :--- | :--- | :--- |
-| **[Carbon](https://github.com/SandfordAE/Carbon)** | My personal .dotfiles repo with sync, reup and logs for Arch Linux. | `Arch System FIles` `bash` |
+| **[Carbon](https://github.com/SandfordAE/Carbon)** | My .dotfiles repo for Arch Linux with sync, reup and logs. | `Arch System FIles` `bash` |
 | **[Arch Update](https://github.com/SandfordAE/Arch_Update)** | A progression of Arch update scriptsthat sync back to a repo. | `Git Actions` `Ntfy` `Bash` |
 | **[Ntfy](https://github.com/SandfordAE/Ntfy)** | My configs for self hosted Ntfy including Sonarr and Radarr notifications. | `Ntfy` `yaml` `Bash` |
 | **[SandfordAE.github.io](https://sandfordae.github.io/)** | Personal documentation site detailing workflows, testing notes, and bio. | `Markdown` `GitHub Pages` |
