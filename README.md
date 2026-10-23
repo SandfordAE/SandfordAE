@@ -3,7 +3,7 @@
 Welcome!  
     I use GitHub as both a workbench and my laboratory—primarily testing CI/CD workflows, automation scripts, and modern application architectures.
 
-* 🚀 **Focus Areas:** CI/CD Actions, Workflow Automation, Software Design
+* 🚀 **Focus Areas:** Workflow Automation, Software Design, CI/CD Actions, Web-Stack Development
 * 🛠️ **Public Repos:** Modular, reusable tools and workflow templates published for the community
 * 🌐 **Portfolio & Bio:** Check out my [SandfordAE.github.io](https://sandfordae.github.io/) page for project details and write-ups
 
@@ -26,7 +26,6 @@ Welcome!
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -51,8 +50,6 @@ Welcome!
 ![Ffmpeg](https://img.shields.io/badge/ffmpeg-%23007808.svg?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
 ![Searxng](https://img.shields.io/badge/searxng-%233050FF.svg?style=for-the-badge&logo=searxng&logoColor=white)
-
-
 
 ---
 
