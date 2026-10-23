@@ -1,6 +1,7 @@
 # SandfordAE | Software & Automation
 
-Welcome! I use GitHub as both my workbench and my laboratory—primarily testing CI/CD workflows, automation scripts, and modern application architectures.
+Welcome! 
+    I use GitHub as both my workbench and my laboratory—primarily testing CI/CD workflows, automation scripts, and modern application architectures.
 
 * 🚀 **Focus Areas:** CI/CD Actions, Workflow Automation, Software Design
 * 🛠️ **Public Repos:** Modular, reusable tools and workflow templates published for the community
