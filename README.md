@@ -49,10 +49,7 @@ Welcome!
 ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Ffmpeg](https://img.shields.io/badge/ffmpeg-%23007808.svg?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)
-![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
-![Brave](https://img.shields.io/badge/Brave-%23FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white)
 ![Searxng](https://img.shields.io/badge/searxng-%233050FF.svg?style=for-the-badge&logo=searxng&logoColor=white)
 
 
