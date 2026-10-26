@@ -1,4 +1,4 @@
-# SandfordAE | Software & Automation
+# SandfordAE | WebStack & Automation Software
 
 Welcome!  
     I use GitHub as both a workbench and my laboratory—primarily testing CI/CD workflows, automation scripts, and modern application architectures.
