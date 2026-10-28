@@ -1,13 +1,22 @@
+
+
 # SandfordAE | WebStack & Automation Software
+
 
 Welcome!  
     I use GitHub as both a workbench and my laboratory—primarily testing CI/CD workflows, automation scripts, and modern application architectures.
 
 * 🚀 **Focus Areas:** Workflow Automation, Software Design, CI/CD Actions, Web-Stack Development
 * 🛠️ **Public Repos:** Modular, reusable tools and workflow templates published for the community
-* 🌐 **Portfolio & Bio:** Check out my [SandfordAE.github.io](https://sandfordae.github.io/) page for project details and write-ups
+* 🌐 **DevTools & More:** Check out my [SandfordAE.github.io](https://sandfordae.github.io/) page for project details and write-ups
+
 
 ---
+
+
+
+
+
 
 ### 🛠 Tech Stack & Tools
 
@@ -51,6 +60,10 @@ Welcome!
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
 ![Searxng](https://img.shields.io/badge/searxng-%233050FF.svg?style=for-the-badge&logo=searxng&logoColor=white)
 
+
+
+
+
 ---
 
 ### ⭐ Featured Projects
@@ -63,5 +76,8 @@ Welcome!
 | **[SandfordAE.github.io](https://sandfordae.github.io/)** | Personal documentation site detailing workflows, testing notes, and bio. | `Markdown` `GitHub Pages` |
 
 ---
+
+
+
 
 > *Much of my day-to-day testing happens in private repos. If you'd like to collaborate or check out a specific private project, feel free to reach out!*
